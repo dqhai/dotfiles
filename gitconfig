@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = haiqd@pm.me
+	name = Q Hai Dang
